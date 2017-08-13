@@ -69,6 +69,7 @@ testimonials:
     quote: >-
       Kaldi is the place to go if you want the best quality coffee. I love their
       stance on empowering farmers and transparency.
+  - {}
 full_image: /img/products/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
@@ -98,5 +99,14 @@ pricing:
         - Unlimited varieties
       plan: Custom
       price: '?'
+    - description: Description of plan
+      items:
+        - Item
+        - ad
+        - asdf
+        - asd
+        - ''
+      plan: This
+      price: '10,000'
 ---
 
