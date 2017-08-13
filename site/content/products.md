@@ -98,7 +98,7 @@ pricing:
         - Green or roasted beans
         - Unlimited varieties
       plan: Custom
-      price: '?'
+      price: '?YOYO'
     - description: Description of plan
       items:
         - Item
